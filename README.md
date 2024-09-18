@@ -5,7 +5,7 @@
 <span id="en">FPGA-based QOI image compressor and decompressor</span>
 ===========================
 
-**QOI** (Quite Okay Image) is a simple lossless RGB/RGBA image compression format. You can find QOI specification and reference software compressor/decompressor from [Official website of QOI](https://qoiformat.org/) . I also offer a simple QOI compressor/decompressor in C language, see [github.com/WangXuan95/QOI](https://github.com/WangXuan95/QOI) .
+**QOI** (Quite Okay Image) is a simple lossless RGB/RGBA image compression format. You can find QOI specification and reference software compressor/decompressor from [Official website of QOI](https://qoiformat.org/) . I also offer a simple QOI compressor/decompressor in C language, see [github.com/WangXuan95/ImCvt](https://github.com/WangXuan95/ImCvt) .
 
 This repo offers **FPGA**-based streaming **QOI** compressor and decompressor, features:
 
@@ -152,4 +152,4 @@ Testbench is provided, just do it yourself.
 # Related links
 
 -  [Official website of QOI](https://qoiformat.org/) ：you can find QOI specification and software code here.
--  [github.com/WangXuan95/QOI](https://github.com/WangXuan95/QOI) : a simple QOI compressor/decompressor in C language, only 240 lines of C.
+-  [github.com/WangXuan95/ImCvt](https://github.com/WangXuan95/ImCvt) : a simple QOI compressor/decompressor in C language, only 200 lines of C.
